@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Redocly.iml" filepath="$PROJECT_DIR$/.idea/Redocly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BitbucketPackageUpdater.iml" filepath="$PROJECT_DIR$/.idea/BitbucketPackageUpdater.iml" />
     </modules>
   </component>
 </project>
